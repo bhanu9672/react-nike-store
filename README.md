@@ -1,2 +1,2 @@
-# react-nike-store
+# React Nike Store
 This is E-Commerce Site Base On React JS...
