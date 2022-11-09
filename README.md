@@ -6,11 +6,11 @@ https://react-nike-store.vercel.app/
 
 # Getting Started
 
-npm install
-# or
-yarn instll
+# npm install
 
-# and Now:
+OR
+
+# yarn instll
 
 npm run dev
 # or
